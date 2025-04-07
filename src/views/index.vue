@@ -154,19 +154,6 @@ export default {
 
 <style lang="less">
 #data-view {
-  width: 100%;
-  height: 100%;
-  background-color: #030409;
-  color: #fff;
-
-  #dv-full-screen-container {
-    background-image: url('../components/datav/img/bg.png');
-    background-size: 100% 100%;
-    box-shadow: 0 0 3px blue;
-    display: flex;
-    flex-direction: column;
-  }
-
   .main-header {
     height: 80px;
     display: flex;
