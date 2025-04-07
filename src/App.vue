@@ -1,6 +1,10 @@
 <template>
-  <div id="app">
-    <router-view />
+  <div class="container">
+    <div class="stage">
+      <div id="app">
+        <router-view />
+      </div>
+    </div>
   </div>
 </template>
 
