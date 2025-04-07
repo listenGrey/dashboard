@@ -157,7 +157,7 @@ export default {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 5px;
 }
 .task-card {
   width: 97.5%;

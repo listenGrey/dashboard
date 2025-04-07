@@ -170,7 +170,7 @@ export default {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 5px;
 }
 .crop-card {
   width: 97.5%;

@@ -3,7 +3,7 @@
     <div class="region-tree">
       <dv-border-box-7 :color="['#BFC7CF','#CCD2D9']">
         <div class="bars">
-          <h2>省 / 市 / 县 / 村 选择</h2>
+          <h2 style="text-align: center">地区选择</h2>
           <ul>
             <li v-for="(province, pIndex) in regionData" :key="pIndex">
           <!-- 省级 -->

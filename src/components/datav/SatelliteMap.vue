@@ -138,8 +138,7 @@ export default {
 <style scoped lang="less">
 .content {
   width: 100%;
-  height: 500px;
-  padding: 5px;
+  padding: 5px 5px 0 5px;
 }
 .amap-container {
   height: 99%;
