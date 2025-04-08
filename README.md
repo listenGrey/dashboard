@@ -1,4 +1,4 @@
-<h1 align="center">Electronic-File</h1>
+<h1 align="center">Dashboard</h1>
 
 ## Project setup
 ```
